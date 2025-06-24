@@ -90,3 +90,4 @@ function newGame() {
       playGame = true;
     });
   }
+  
