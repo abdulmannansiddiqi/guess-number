@@ -10,6 +10,7 @@ const p = document.createElement('p')
 
 let prevGuess = []
 // let prevGuess = []
+// let prevGuess = []
 let numGuess = 1
 let playGame = true
 
