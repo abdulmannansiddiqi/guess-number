@@ -91,6 +91,7 @@ input.guessSubmit:hover {
 
 .guesses {
   color: #ffffa1;
+  padding-bottom:2px;
 }
 
 .lastResult {
